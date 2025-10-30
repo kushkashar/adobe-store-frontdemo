@@ -1,6 +1,6 @@
 mountpoints:
   /:
-    url: https://content.da.live/kushkashar/adobe-store-frontdemo/
+    url: https://content.da.live/kushkashar/adobe-store-frontdemo-1/
     type: markup
 
 folders:
